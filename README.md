@@ -14,3 +14,15 @@ https://www.youtube.com/watch?v=kDx8hZhvCQ0
 
 <h3>Real Time streams with Apache Kafka:</h3>
 https://www.youtube.com/watch?v=I32hmY4diFY 
+
+<table>
+<tr>
+<td>Title</td>
+<td>Link</td>
+</tr>
+
+<tr>
+<td>Script Fields</td>
+<td>https://www.elastic.co/blog/using-painless-kibana-scripted-fields</td>
+</tr>
+</table>
